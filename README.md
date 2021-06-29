@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alicegolakiya
-- 👀 I’m interested in Ansible,Python,AWS,GCP,Devops
-- 🌱 I’m currently learning AWS,GCP
-- 💞️ I’m looking to collaborate on Ansibe Automation for Devops
+- 👋 Hi, I am Alice Golakiya
+- 👀 I am interested in Ansible,Python,AWS,GCP,Devops
+- 🌱 I am currently learning AWS,GCP
+- 💞️ I am looking to collaborate on Ansibe Automation for Devops
 - 📫 You Can reach me on my mobile +91-7405747046 or on email-golakiyalaice@gmail.com
 
 <!---
