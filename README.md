@@ -1,7 +1,7 @@
 - 👋 Hi, I am Alice Golakiya
 - 👀 I am interested in Ansible,Python,AWS,GCP,Devops
 - 🌱 I am currently learning AWS,GCP
-- 💞️ I am looking to collaborate on Ansibe Automation for Devops
+- 💞️ 
 - 📫
 
 <!---
