@@ -1,6 +1,6 @@
 - 👋 Hi, I am Alice Golakiya
-- 👀 I am interested in Ansible,Python,AWS,GCP,Devops
-- 🌱 I am currently learning AWS,GCP
+- 👀 I am DevSecOps Architect.
+- 🌱 I am currently learning APM and Building a Analytics Solutions
 - 💞️ 
 - 📫
 
