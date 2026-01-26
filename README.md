@@ -7,7 +7,7 @@
 
 - 👀 DevSecOps Architect with expertise in cloud infrastructure and enterprise automation
 - 🌱 Continuously learning and innovating in security and infrastructure technologies
-- 🔗 [LinkedIn](https://www.linkedin.com/in/golakiyaalice)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alicegolakiya/)
 
 ---
 
