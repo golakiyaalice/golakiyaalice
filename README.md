@@ -4,6 +4,23 @@
 
 ### Bridging Security, Infrastructure & Innovation
 
+<div align="center">
+  <img src="alice-name.svg" alt="Alice Golakiya" width="800" />
+</div>
+
+<div align="center">
+
+![Azure](https://img.shields.io/badge/Azure-DevOps%20%7C%20AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EKS%20%7C%20Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Cloud%20Run%20%7C%20Compute-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Containers-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+
 </div>
 
 ---
@@ -94,6 +111,13 @@ Managed cross-cloud infrastructure platforms:
 - **Az-104:** Azure Administrator
 - **Az-900:** Azure Fundamentals
 
+### Infosys
+- **DevOps Professional**
+- **SRE Professional**
+- **Ansible Professional**
+- **Terraform Associate**
+
+
 ### RedHat
 - **RHCSA:** Red Hat Certified System Administrator
 - **RHCE:** Red Hat Certified Engineer
@@ -110,6 +134,7 @@ Managed cross-cloud infrastructure platforms:
 K.K. Shah Jarodwala Maninagar Science College, Gujarat University (Apr 2019)
 
 ---
+
 
 <div align="center">
 
